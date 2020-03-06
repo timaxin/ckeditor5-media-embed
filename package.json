@@ -13,7 +13,7 @@
     "@ckeditor/ckeditor5-clipboard": "^17.0.0",
     "@ckeditor/ckeditor5-core": "^17.0.0",
     "@ckeditor/ckeditor5-engine": "^17.0.0",
-    "@ckeditor/ckeditor5-image": "^17.0.0",
+    "@ckeditor/ckeditor5-image": "git+https://github.com/timaxin/ckeditor5-image.git",
     "@ckeditor/ckeditor5-ui": "^17.0.0",
     "@ckeditor/ckeditor5-undo": "^17.0.0",
     "@ckeditor/ckeditor5-utils": "^17.0.0",
